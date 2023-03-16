@@ -1,3 +1,7 @@
+Nutritional Rating Machine Learning Model
+
+![image](https://user-images.githubusercontent.com/93139691/225623729-759719e2-f3bc-41b3-8620-303261d0ed82.png)
+
 Implementation of a linear regression model and a neural network, two categories of machine learning models. We are utilising a dataset from the nutritional evaluations and constituents of several cereals. To predict the cereal's nutritional rating, we particularly use the cereal's sugar and fibre content.
 In this Jupyter Notebook: Nutritional Rating Machine Learning Model.ipynb
 1. CSV to Pandas Dataframe Conversion and Data Exploration
